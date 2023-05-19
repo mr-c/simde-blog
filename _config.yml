@@ -21,9 +21,9 @@
 title: "SIMD Everywhere: The Blog"
 description: >-
   Implementations of SIMD instruction sets for systems which don't natively support them.
-baseurl: "/blog"
-url: "https://simde-everywhere.github.io"
-github_username:  simd-everywhere
+baseurl: "/simde-blog"
+url: "https://mr-c.github.io"
+github_username:  mr-c
 
 # Build settings
 theme: minima
